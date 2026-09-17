@@ -29,7 +29,7 @@ latest_posts:
 
 Hi, I'm Niharika! I'm currently a Research Intern on the CARE team at [Microsoft Research](https://www.microsoft.com/en-us/research/), working on multimodal models for radiology.
 
-Before this, I spent a few years as a software engineer at Microsoft, and did a bunch of research on the side — text line segmentation for handwritten manuscripts, drug design, road inspection from video, you name it.
+Before this, I spent three years as a software engineer at Microsoft @ Torus Buildout Team building Azure Sovereign Clouds. Also did a bunch of research on the side, where I published my Masters thesis on text line segmentation for Indic handwritten manuscripts. I dabbled with latent representations for drug design, segmentation in videos, reinforcement learning, and what not!
 
 These days, I'm mostly excited about building **explainable, trustworthy models for healthcare** — the kind clinicians can actually understand and rely on. Feel free to reach out if you'd like to chat!
 
