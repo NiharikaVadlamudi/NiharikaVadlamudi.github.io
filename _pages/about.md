@@ -27,10 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Niharika! I'm currently a Research Intern on the CARE team at [Microsoft Research](https://www.microsoft.com/en-us/research/), working on multimodal models for radiology.
+Hi, I'm Niharika! I'm currently a Research Intern on the CARE team at [Microsoft Research](https://www.microsoft.com/en-us/research/), where I get to build multimodal models for radiology and think a lot about what it actually takes for AI to be useful in a hospital.
 
-Before this, I spent three years as a software engineer at Microsoft @ Torus Buildout Team building Azure Sovereign Clouds. Also did a bunch of research on the side, where I published my Masters thesis on text line segmentation for Indic handwritten manuscripts. I dabbled with latent representations for drug design, segmentation in videos, reinforcement learning, and what not!
+I got here in a bit of a roundabout way. I spent three years as a software engineer at Microsoft on the Torus Buildout team, building out Azure's sovereign clouds, while chasing research on the side. That side project eventually became a Master's thesis on text line segmentation for Indic handwritten manuscripts — and somewhere along the way, I picked up a habit of dabbling in whatever looked interesting: latent representations for drug design, segmentation in videos, reinforcement learning, you name it.
 
-These days, I'm mostly excited about building **explainable, trustworthy models for healthcare** — the kind clinicians can actually understand and rely on. Feel free to reach out if you'd like to chat!
+These days that curiosity has narrowed, just a little, to **explainable, trustworthy models for healthcare** — the kind clinicians can actually understand and rely on, not just trust blindly.
 
-Outside of work: I love philosophy, I'm a big-time Formula 1 fan (Max Verstappen 🏎️), and I'm almost always in the middle of a non-fiction book. Getting deep into art & art history is a lifelong goal of mine, and I love exploring food from different cuisines. Always jumping into something new!
+Outside of work, I'm equal parts philosophy nerd, die-hard Formula 1 fan (let's go Max Verstappen 🏎️), and non-fiction hoarder. Getting properly into art and art history is a lifelong goal of mine, and I'll never say no to trying food from a new cuisine. Always jumping into something new — feel free to reach out if you'd like to chat!
