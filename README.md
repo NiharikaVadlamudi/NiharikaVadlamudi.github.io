@@ -1,6 +1,6 @@
 # niharikavadlamudi.github.io
 
-Personal academic website for **Niharika Vadlamudi** 
+Personal academic website for **Niharika Vadlamudi**
 Live at: https://niharikavadlamudi.github.io/
 
 Built on [al-folio](https://github.com/alshedivat/al-folio), a Jekyll starter for academic websites, under the MIT License. See [docs/](docs/) for the upstream starter's setup and customization guides (installing, deploying, adding publications/projects, plugin ecosystem, etc.) — these still apply to this site's underlying framework.
