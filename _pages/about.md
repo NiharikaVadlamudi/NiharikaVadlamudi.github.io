@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Intern, <a href='https://www.microsoft.com/en-us/research/'>Microsoft Research</a> (CARE Team)
+subtitle:
 
 profile:
   align: right
@@ -14,7 +14,7 @@ profile:
     <p>Bengaluru, India</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # social icons now shown in the navbar (enable_navbar_social) instead of at the bottom
 
 announcements:
   enabled: true # includes a list of news items
@@ -34,3 +34,13 @@ I got here in a bit of a roundabout way. I spent three years as a software engin
 These days that curiosity has narrowed, just a little, to **explainable, trustworthy models for healthcare** — the kind clinicians can actually understand and rely on, not just trust blindly.
 
 Outside of work, I'm equal parts philosophy nerd, die-hard Formula 1 fan (let's go Max Verstappen 🏎️), and non-fiction hoarder. Getting properly into art and art history is a lifelong goal of mine, and I'll never say no to trying food from a new cuisine. Always jumping into something new — feel free to reach out if you'd like to chat!
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll("h2 a").forEach(function (el) {
+    if (el.textContent.trim() === "selected publications") {
+      el.textContent = "publications";
+    }
+  });
+});
+</script>
