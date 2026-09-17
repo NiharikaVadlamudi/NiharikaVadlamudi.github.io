@@ -32,3 +32,5 @@ Hi, I'm Niharika! I'm currently a Research Intern on the CARE team at [Microsoft
 Before this, I spent a few years as a software engineer at Microsoft, and did a bunch of research on the side — text line segmentation for handwritten manuscripts, drug design, road inspection from video, you name it.
 
 These days, I'm mostly excited about building **explainable, trustworthy models for healthcare** — the kind clinicians can actually understand and rely on. Feel free to reach out if you'd like to chat!
+
+Outside of work: I love philosophy, I'm a big-time Formula 1 fan (Max Verstappen 🏎️), and I'm almost always in the middle of a non-fiction book. Getting deep into art & art history is a lifelong goal of mine, and I love exploring food from different cuisines. Always jumping into something new!
