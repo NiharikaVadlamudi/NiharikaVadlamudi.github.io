@@ -27,10 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Research Intern on the CARE team at [Microsoft Research](https://www.microsoft.com/en-us/research/), working on multimodal vision-language models for radiology, including tube/abnormality detection and an aortic dilatation screening pipeline built with the Narayana Health team.
+Hi, I'm Niharika! I'm currently a Research Intern on the CARE team at [Microsoft Research](https://www.microsoft.com/en-us/research/), working on multimodal models for radiology.
 
-I completed my B.Tech and MS by Research (part-time) in Electronics and Communication Engineering at [IIIT Hyderabad](https://www.iiit.ac.in/), where my thesis focused on high-precision text line segmentation in palm leaf manuscripts. As part of the IHDIA research group at [CVIT](https://cvit.iiit.ac.in/), I co-authored SeamFormer (ICDAR'23) and LineTR (ICPR'24), and helped deploy SeamFormer into the [Bhashini](https://bhashini.gov.in/) platform, where it now supports 1000+ users processing ancient Indic manuscripts.
+Before this, I spent a few years as a software engineer at Microsoft, and did a bunch of research on the side — text line segmentation for handwritten manuscripts, drug design, road inspection from video, you name it.
 
-Before moving into research, I spent three years as a Software Developer I at Microsoft on the Torus Buildout team, building cloud orchestration, certificate provisioning, and secrets-management infrastructure for sovereign cloud pipelines. I've also worked on computational drug design (GNNs for molecular property prediction) at IHub-Data and on video-based road inspection models at IIIT Delhi's Vision Lab.
-
-My research interests sit at the intersection of computer vision, document/medical image analysis, and building clinically useful multimodal models. Feel free to reach out if you'd like to collaborate.
+These days, I'm mostly excited about building **explainable, trustworthy models for healthcare** — the kind clinicians can actually understand and rely on. Feel free to reach out if you'd like to chat!
