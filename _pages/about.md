@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research Intern, <a href='https://www.microsoft.com/en-us/research/'>Microsoft Research</a> (CARE Team)
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>MS by Research, ECE</p>
+    <p>IIIT Hyderabad</p>
+    <p>Bengaluru, India</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Research Intern on the CARE team at [Microsoft Research](https://www.microsoft.com/en-us/research/), working on multimodal vision-language models for radiology, including tube/abnormality detection and an aortic dilatation screening pipeline built with the Narayana Health team.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I completed my B.Tech and MS by Research (part-time) in Electronics and Communication Engineering at [IIIT Hyderabad](https://www.iiit.ac.in/), where my thesis focused on high-precision text line segmentation in palm leaf manuscripts. As part of the IHDIA research group at [CVIT](https://cvit.iiit.ac.in/), I co-authored SeamFormer (ICDAR'23) and LineTR (ICPR'24), and helped deploy SeamFormer into the [Bhashini](https://bhashini.gov.in/) platform, where it now supports 1000+ users processing ancient Indic manuscripts.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before moving into research, I spent three years as a Software Developer I at Microsoft on the Torus Buildout team, building cloud orchestration, certificate provisioning, and secrets-management infrastructure for sovereign cloud pipelines. I've also worked on computational drug design (GNNs for molecular property prediction) at IHub-Data and on video-based road inspection models at IIIT Delhi's Vision Lab.
+
+My research interests sit at the intersection of computer vision, document/medical image analysis, and building clinically useful multimodal models. Feel free to reach out if you'd like to collaborate.

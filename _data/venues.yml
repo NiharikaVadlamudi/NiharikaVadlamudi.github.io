@@ -1,9 +1,23 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ICDAR":
+  url: https://icdar2023.org/
+  color: "#c0392b"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ICPR":
+  url: https://icpr2024.org/
+  color: "#2980b9"
 
-"Vision":
-  color: "#009f36"
+"ML4H":
+  url: https://ml4health.github.io/
+  color: "#16a085"
+
+"MLHC":
+  url: https://www.mlforhc.org/
+  color: "#8e44ad"
+
+"EACTS":
+  url: https://www.eacts.org/
+  color: "#d35400"
+
+"AHA":
+  url: https://www.professional.heart.org/
+  color: "#e74c3c"

@@ -1,221 +1,233 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Niharika Vadlamudi",
+    "label": "Research Intern, Microsoft Research (CARE Team)",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "lekhaniharikavadlamudi@gmail.com",
+    "phone": "",
+    "summary": "Researcher working on document image analysis and medical vision-language models. MS by Research (part-time), IIIT Hyderabad. Formerly Software Developer I at Microsoft.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Bengaluru",
+      "countryCode": "IN",
+      "region": "Karnataka"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "niharika-vadlamudi",
+        "url": "https://www.linkedin.com/in/niharika-vadlamudi/"
+      }
+    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "Microsoft Research",
+      "position": "Research Intern, CARE Team",
+      "location": "Bengaluru, India",
+      "startDate": "2025-10-01",
+      "endDate": "2026-06-30",
+      "summary": "",
+      "highlights": [
+        "Led coordination with Narayana Health hospitals, managing dataset access and driving model evaluations across incremental versions against clinically defined exit criteria spanning multiple pathologies.",
+        "Developed an optimized multimodal VLM for rare and critical ICU pathologies, leveraging a discriminative loss to reinforce cross-entropy loss within a VLM setting.",
+        "Led tube detection and abnormality placement efforts — including dataset creation, model training, and evaluation — for classifying tube placement and associated abnormalities.",
+        "Developed an aortic dilatation detection pipeline, independently collaborating with the NH team on a novel geometric approach for detecting ascending aortic enlargement (AAE).",
+        "Conducted a systematic literature review of radiology foundation and baseline models, collating published benchmark results for comparative analysis."
+      ]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
+      "name": "Microsoft",
+      "position": "Software Developer I, Torus Buildout (Experiences + Devices)",
+      "location": "Hyderabad, India",
+      "startDate": "2022-08-01",
+      "endDate": "2025-08-31",
       "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": [
+        "Automated and optimized cloud orchestration workflows, enabling two critical role bring-ups and reducing buildout time by approximately 5%.",
+        "Developed and deployed a configurable certificate provisioning workflow in CredSMART, adding support for publishing public trusted root and public certificates to Azure Active Directory.",
+        "Integrated the Torus SecretsBootstrapper service with two core services for end-to-end enablement of secret management in upcoming sovereign cloud pipelines.",
+        "Conducted integration testing for 30+ CredSMART APIs, supporting 100+ partner teams in secure service key and certificate workflows.",
+        "Automated core security services (Lockbox, IDM) using the Buildout Coordinator Tool, improving reliability and minimizing manual effort.",
+        "Implemented the Torus Configuration Syncer Service, enabling dynamic, code-free configuration management across multiple datacenter services."
+      ]
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "IIIT Delhi — Vision Lab",
+      "position": "Research Engineer",
+      "location": "New Delhi, India",
+      "startDate": "2023-12-01",
+      "endDate": "2024-06-30",
+      "summary": "Collaborated with Dr. Saket Anand on the government-funded project 'Automated Road Inspection using Videos for E-Marg'.",
+      "highlights": [
+        "Fine-tuned state-of-the-art vision models (DeepLabV3+, SAM, EfficientNet) for small-scale datasets; developed an integrated model exhibiting a 6% increase in accuracy for Road Quality Assessment.",
+        "Researched novel Active Learning (AL) methods and frame selection strategies for video modalities to reduce annotation costs for large-scale raw data."
+      ]
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "CVIT, IIIT Hyderabad",
+      "position": "Researcher (IHDIA group)",
+      "location": "Hyderabad, India",
+      "startDate": "2020-05-01",
+      "endDate": "2023-08-31",
+      "summary": "Collaborated with Dr. Ravi Kiran S investigating interdisciplinary methodologies for analyzing text layouts within historical palm leaf manuscripts.",
+      "highlights": [
+        "Work culminated in a Master's thesis and two publications (SeamFormer, LineTR).",
+        "Implemented the SeamFormer model into the Bhashini platform to facilitate processing of ancient Indic manuscripts, supporting 1000+ users and academicians."
+      ]
     },
     {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
-    }
-  ],
-  "volunteer": [
+      "name": "IHub-Data, IIIT Hyderabad",
+      "position": "ML Research Fellow",
+      "location": "Hyderabad, India",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-31",
+      "summary": "Worked with Dr. UD Priyakumar on computational drug design for de novo molecular generation.",
+      "highlights": [
+        "Extended state-of-the-art baseline models for multi-property prediction on the Harvard Therapeutics Data Commons (TDC) ADMET dataset.",
+        "Designed GNN encoder-decoder architectures (GIN, GAT, GCN) for molecular property prediction."
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Microsoft",
+      "position": "Software Intern, IC3 Admin Scenarios Team",
+      "location": "Hyderabad, India",
+      "startDate": "2021-05-01",
+      "endDate": "2021-07-31",
+      "summary": "",
+      "highlights": [
+        "Enhanced pagination and search features in Modern Portal (MoPo) Admin, improving admin workflow efficiency and user experience.",
+        "Designed and implemented Azure Cosmos DB (NoSQL) APIs to drive performance benchmarking and enable COGS optimization for custom Azure server configurations.",
+        "Developed a scalable data ingestion tool handling millions of records, leading to multi-million-dollar cost savings across cloud operations."
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "position": "Codess Mentee",
+      "location": "Remote",
+      "startDate": "2020-06-01",
+      "endDate": "2020-07-31",
+      "summary": "Selected for the Microsoft Codess Program (2020), a competitive initiative to empower women in software engineering.",
+      "highlights": [
+        "Designed and implemented a mini Mars Rover navigation system using core AI path planning algorithms (A*, Dijkstra's, DFS, Bidirectional BFS) with a focus on ethical AI principles.",
+        "Offered a direct internship opportunity for Summer 2021 based on performance."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "International Institute of Information Technology, Hyderabad (IIIT-H)",
+      "area": "Electronics and Communication Engineering",
+      "studyType": "MS by Research (Part-Time)",
+      "startDate": "2022-01-01",
+      "endDate": "2025-02-28",
+      "score": "8.00 GPA",
+      "courses": ["Thesis: High Precision Text Line Segmentation in Palm Leaf Manuscripts"]
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    },
-    {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
+      "institution": "International Institute of Information Technology, Hyderabad (IIIT-H)",
+      "area": "Electronics and Communication Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2018-08-01",
+      "endDate": "2022-01-31",
+      "score": "8.00 GPA",
+      "courses": []
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "SeamFormer: High Precision Text Line Segmentation for Handwritten Documents",
+      "publisher": "ICDAR 2023",
+      "releaseDate": "2023-01-01",
+      "summary": "First author, with Rahul Krishna and Ravi Kiran Sarvadevabhatla. Accepted."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "LineTR: Unified Text Line Segmentation for Challenging Palm Leaf Manuscripts",
+      "publisher": "ICPR 2024",
+      "releaseDate": "2024-01-01",
+      "summary": "With Vaibhav Agrawal, Muhammad Waseem, Amal Joseph, Sreenya Chitluri, and Ravi Kiran Sarvadevabhatla. Accepted."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Rad-Phi4-Vision-CXR: A Compact Multimodal Assistant for Versatile Radiology Workflows",
+      "publisher": "ML4H 2025",
+      "releaseDate": "2025-01-01",
+      "summary": "Co-author, with Mercy Prasanna Ranjit, Anirban Porya, and team at Microsoft Research. Accepted."
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+      "publisher": "MLHC 2026",
+      "releaseDate": "2026-01-01",
+      "summary": "First author, equal contribution, with Anirban Porya, Mercy Prasanna Ranjit, and team at Microsoft Research. Accepted."
     },
     {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Early Detection of Borderline Aortic Dilatation on Chest Radiographs Using a Multimodal Morphometric Agent",
+      "publisher": "EACTS 2026",
+      "releaseDate": "2026-01-01",
+      "summary": "Co-author, with Anirban Porya, Mercy Prasanna Ranjit, and team at Microsoft Research. Accepted."
+    },
+    {
+      "name": "Automated Multi-Landmark Morphometric Screening for Ascending Aortic Dilatation on Chest Radiography: A Proof-of-Concept Study",
+      "publisher": "AHA 2026",
+      "releaseDate": "2026-01-01",
+      "summary": "First Author. Submitted."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "name": "SeamFormer",
+      "summary": "High precision text line segmentation for handwritten documents; deployed into the Bhashini platform serving 1000+ users processing ancient Indic manuscripts.",
+      "highlights": ["ICDAR 2023", "MS thesis project"],
+      "startDate": "2020-05-01",
+      "endDate": "2023-08-01"
+    },
+    {
+      "name": "Automated Road Inspection (E-Marg)",
+      "summary": "Government-funded project fine-tuning DeepLabV3+, SAM and EfficientNet for road quality assessment from video.",
+      "highlights": ["6% accuracy improvement", "Active learning for annotation-efficient video labeling"],
+      "startDate": "2023-12-01",
+      "endDate": "2024-06-01"
+    },
+    {
+      "name": "De Novo Drug Molecular Generation",
+      "summary": "GNN encoder-decoder architectures (GIN, GAT, GCN) for multi-property prediction on the Harvard TDC ADMET dataset.",
+      "highlights": ["Graph Isomorphism Networks", "Graph Attention Networks"],
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-01"
     }
-  ]
+  ],
+  "awards": [
+    {
+      "title": "3rd Place, Microsoft Global Hackathon 2024",
+      "date": "2024-01-01",
+      "awarder": "Microsoft",
+      "summary": "Developed a certificate troubleshooting tool; placed 3rd among 20+ projects within the organization."
+    },
+    {
+      "title": "Merit List, Monsoon 2021",
+      "date": "2021-01-01",
+      "awarder": "IIIT Hyderabad",
+      "summary": "Awarded Merit List recognition for the Monsoon 2021 semester."
+    },
+    {
+      "title": "Biology Olympiad — Top 10% Statewide",
+      "date": "2018-01-01",
+      "awarder": "Indian Association of Physics Teachers (IAPT)",
+      "summary": "Excellence certificate for ranking in the top 10% of participants statewide."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages & Frameworks",
+      "keywords": ["C++", "C", "C#", ".NET Framework", "MATLAB", "Python", "LaTeX"]
+    },
+    {
+      "name": "ML/CV",
+      "keywords": ["PyTorch", "TensorFlow", "OpenCV", "Scikit-Learn", "NumPy", "Weights & Biases (WandB)"]
+    }
+  ],
+  "certificates": [],
+  "languages": [],
+  "interests": [],
+  "references": []
 }

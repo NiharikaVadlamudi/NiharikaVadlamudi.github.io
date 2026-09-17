@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-01-01 09:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+**LineTR**, on universal text line segmentation for handwritten documents, has been accepted to **ICPR 2024**. :page_facing_up:
