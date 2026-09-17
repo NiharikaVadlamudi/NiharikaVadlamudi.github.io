@@ -113,6 +113,18 @@
         "Designed and implemented a mini Mars Rover navigation system using core AI path planning algorithms (A*, Dijkstra's, DFS, Bidirectional BFS) with a focus on ethical AI principles.",
         "Offered a direct internship opportunity for Summer 2021 based on performance."
       ]
+    },
+    {
+      "name": "Medha Servo Drive",
+      "position": "Hardware Intern",
+      "location": "R&D Team, Hyderabad, India",
+      "startDate": "2018-06-01",
+      "endDate": "2018-08-31",
+      "summary": "",
+      "highlights": [
+        "Developed and prototyped a four-way traffic light controller as an embedded hardware system, using Xilinx Verilog implemented on FPGA boards.",
+        "Contributed to the design and testing phases, ensuring functionality and reliability."
+      ]
     }
   ],
   "education": [
@@ -165,12 +177,6 @@
       "publisher": "EACTS 2026",
       "releaseDate": "2026-01-01",
       "summary": "Co-author, with Anirban Porya, Mercy Prasanna Ranjit, and team at Microsoft Research. Accepted."
-    },
-    {
-      "name": "Automated Multi-Landmark Morphometric Screening for Ascending Aortic Dilatation on Chest Radiography: A Proof-of-Concept Study",
-      "publisher": "AHA 2026",
-      "releaseDate": "2026-01-01",
-      "summary": "First Author. Submitted."
     }
   ],
   "projects": [

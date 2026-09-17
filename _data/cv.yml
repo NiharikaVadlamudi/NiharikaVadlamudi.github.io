@@ -118,6 +118,15 @@ cv:
           - Designed a mini Mars Rover navigation system using A*, Dijkstra's, DFS, and Bidirectional BFS.
           - Offered a direct internship opportunity for Summer 2021 based on performance.
 
+      - company: Medha Servo Drive
+        position: Hardware Intern
+        location: R&D Team, Hyderabad, India
+        start_date: 2018-06
+        end_date: 2018-08
+        highlights:
+          - Developed and prototyped a four-way traffic light controller as an embedded hardware system, using Xilinx Verilog implemented on FPGA boards.
+          - Contributed to the design and testing phases, ensuring functionality and reliability.
+
     Awards:
       - title: 3rd Place, Microsoft Global Hackathon 2024
         authors:
@@ -209,13 +218,6 @@ cv:
         publisher: EACTS 2026
         releaseDate: 2026-01-01
         summary: Co-Author. Accepted.
-
-      - title: "Automated Multi-Landmark Morphometric Screening for Ascending Aortic Dilatation on Chest Radiography: A Proof-of-Concept Study"
-        authors:
-          - Niharika Vadlamudi
-        publisher: AHA 2026
-        releaseDate: 2026-01-01
-        summary: First Author. Submitted.
 
     Skills:
       - name: Languages & Frameworks

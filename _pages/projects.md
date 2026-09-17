@@ -5,7 +5,7 @@ permalink: /projects/
 description: Research, engineering, and side projects.
 nav: true
 nav_order: 3
-display_categories: [research, engineering, fun]
+display_categories: [research, engineering, coursework, fun]
 horizontal: false
 ---
 
