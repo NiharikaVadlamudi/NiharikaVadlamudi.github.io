@@ -27,13 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Niharika! I'm currently a Research Intern on the CARE team at [Microsoft Research](https://www.microsoft.com/en-us/research/), where I get to build multimodal models for radiology and think a lot about what it actually takes for AI to be useful in a hospital.
+Hi, I'm Niharika! Currently on a quest to make AI in healthcare **explainable, safe, and actually trustworthy** — the kind of model that survives contact with a real patient, not just a leaderboard.
 
-I got here in a bit of a roundabout way. I spent three years as a software engineer at Microsoft on the Torus Buildout team, building out Azure's sovereign clouds, while chasing research on the side. That side project eventually became a Master's thesis on text line segmentation for Indic handwritten manuscripts — and somewhere along the way, I picked up a habit of dabbling in whatever looked interesting: latent representations for drug design, segmentation in videos, reinforcement learning, you name it.
+I cut my teeth at Microsoft Research, where I built SVLMs (Small Vision Language Models — a far less glamorous acronym than it sounds) for radiology, basically teaching machines to read X-rays without losing the plot. Before that, there was a whole other life as a software engineer and a side-quest into a Master's thesis on manuscript segmentation, but that's a story for the CV.
 
-These days that curiosity has narrowed, just a little, to **explainable, trustworthy models for healthcare** — the kind clinicians can actually understand and rely on, not just trust blindly.
-
-Outside of work, I'm equal parts philosophy nerd, die-hard Formula 1 fan (let's go Max Verstappen 🏎️), and non-fiction hoarder. Getting properly into art and art history is a lifelong goal of mine, and I'll never say no to trying food from a new cuisine. Always jumping into something new — feel free to reach out if you'd like to chat!
+Off the clock, I'm an art-and-art-history enthusiast still very much in training, an amateur Formula 1 fan (Verstappen FTW 🏎️), and a shameless non-fiction hoarder. Philosophy is my favorite rabbit hole, I'm trying to learn something new every single day, and I will drop everything for food from a cuisine I haven't tried yet. Always chasing the next interesting thing — say hi if you'd like to talk about any of it!
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
