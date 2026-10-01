@@ -5,6 +5,6 @@ cv_pdf: /assets/pdf/NiharikaVadlamudi_CV.pdf # path to your CV PDF file
 email: lekhaniharikavadlamudi@gmail.com # your email address
 linkedin_username: niharika-vadlamudi # your LinkedIn username
 # github_username: # TODO: add your GitHub username
-rss_icon: true # comment this line to hide the RSS icon
+# rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: 4g1tR54AAAAJ # your Google Scholar ID
 # orcid_id: # TODO: add your ORCID iD if you have one
