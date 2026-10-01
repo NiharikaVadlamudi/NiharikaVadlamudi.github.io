@@ -27,11 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Niharika! Currently on a quest to make AI in healthcare **explainable, safe, and actually trustworthy** — the kind of model that survives contact with a real patient, not just a leaderboard.
+Hi, I'm Niharika! I'm currently interested in explainable, safe, and trustworthy AI for healthcare — building models that can actually be deployed in real patient settings, not just benchmarked in a paper.
 
-I cut my teeth at Microsoft Research, where I built SVLMs (Small Vision Language Models — a far less glamorous acronym than it sounds) for radiology, basically teaching machines to read X-rays without losing the plot. Before that, there was a whole other life as a software engineer and a side-quest into a Master's thesis on manuscript segmentation, but that's a story for the CV.
+I previously worked at Microsoft Research, where I built SVLMs (Small Vision Language Models) for radiology.
 
-Off the clock, I'm an art-and-art-history enthusiast still very much in training, an amateur Formula 1 fan (Verstappen FTW 🏎️), and a shameless non-fiction hoarder. Philosophy is my favorite rabbit hole, I'm trying to learn something new every single day, and I will drop everything for food from a cuisine I haven't tried yet. Always chasing the next interesting thing — say hi if you'd like to talk about any of it!
+Outside of work, I'm an art and art history enthusiast, an amateur F1 fan (Verstappen FTW), and a non-fiction hoarder. I love philosophy the most, and I'm always trying to learn something new. I love trying food from different cuisines and cultures — always looking for something new. Feel free to reach out if you'd like to chat!
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
