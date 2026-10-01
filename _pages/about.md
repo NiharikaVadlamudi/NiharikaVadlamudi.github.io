@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>MS by Research, ECE</p>
     <p>IIIT Hyderabad</p>
-    <p>Bengaluru, India</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # social icons now shown in the navbar (enable_navbar_social) instead of at the bottom
@@ -27,11 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Niharika! I'm currently interested in explainable, safe, and trustworthy AI for healthcare — building models that can actually be deployed in real patient settings, not just benchmarked in a paper.
+Heyy, I'm Niharika! On my own adventure to make AI in healthcare explainable, safe, and trustworthy — the kind of model that survives contact with a real patient, not just a leaderboard. I've had prior experience building models for 2D chest radiographs, and now I'm looking to explore other problem statements in medical imaging.
 
-I previously worked at Microsoft Research, where I built SVLMs (Small Vision Language Models) for radiology.
-
-Outside of work, I'm an art and art history enthusiast, an amateur F1 fan (Verstappen FTW), and a non-fiction hoarder. I love philosophy the most, and I'm always trying to learn something new. I love trying food from different cuisines and cultures — always looking for something new. Feel free to reach out if you'd like to chat!
+Off the clock, I'm an art-and-art-history enthusiast still very much in training, an amateur Formula 1 fan (Verstappen FTW 🏎️), and a non-fiction hoarder. Philosophy is my favourite rabbit hole, I'm trying to learn something new every single day, and I will drop everything for food from a cuisine I haven't tried yet. Always chasing the next interesting thing — say hi if you'd like to talk about any of it!
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
